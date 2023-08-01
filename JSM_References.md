@@ -27,6 +27,15 @@ Imperfectly.” *Ecology* 84 (8): 2200–2207.
 
 </div>
 
+<div id="ref-piironen_2017" class="csl-entry">
+
+Piironen, Juho, and Aki Vehtari. 2017. “<span class="nocase">Sparsity
+information and regularization in the horseshoe and other shrinkage
+priors</span>.” *Electronic Journal of Statistics* 11 (2): 5018–51.
+<https://doi.org/10.1214/17-EJS1337SI>.
+
+</div>
+
 <div id="ref-royle_2008" class="csl-entry">
 
 Royle, Andrew J., and Robert M. Dorazio. 2008. *Hierarchical Modeling
