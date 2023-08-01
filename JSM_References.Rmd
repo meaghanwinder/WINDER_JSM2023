@@ -1,0 +1,12 @@
+---
+title: "Exploring regularizing priors for the modeling of long-term occupancy data"
+output: github_document
+bibliography: bibliography.bib
+nocite: '@*'
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# References
